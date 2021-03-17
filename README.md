@@ -1,4 +1,4 @@
-# Deploiement on netlify
+# Link to the project on Netlify
 https://pwa-weather-app-006.netlify.app/
 
 # Getting Started with Create React App
